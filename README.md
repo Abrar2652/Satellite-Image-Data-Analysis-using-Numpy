@@ -5,5 +5,5 @@ I worked on this project using the Numpy library of Python under Dr. Ilkay Altin
 
 \
 \
-Go to: https://nbviewer.jupyter.org/
-\And copy-paste the .ipynb or.pdf link to view the files.
+Go to: https://nbviewer.jupyter.org/  \
+And copy-paste the .ipynb or.pdf link to view the files.
